@@ -101,6 +101,11 @@ cv2.destroyAllWindows()
 
 ![image](https://github.com/user-attachments/assets/8c356ab7-fa4d-4478-b6dc-961e8a96ce7c)
 
+
+
+
+
+
 ### iv) Rotate and display the video
 ![image](https://github.com/user-attachments/assets/68c6e4b6-1280-4a0f-ac72-06212f538c7f)
 
